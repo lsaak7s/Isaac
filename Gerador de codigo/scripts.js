@@ -108,6 +108,3 @@ async function gerarCodigo() {
 botao.addEventListener("click", gerarCodigo)
 
 
-// vizinho curioso (addEventListener)
-// adicionar ouvinte de eventos
-// Evento = clique, digitei...
