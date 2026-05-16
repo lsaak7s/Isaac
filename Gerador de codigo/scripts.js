@@ -54,12 +54,7 @@ Depois disso de configurar a IA = role "use" pedido do usuario, contente "Da ond
     [x] Pegar a resposta da IA e colocar na tela 
     [/] Estilizar a resposta     
 
-    // Ir no HTML e pegar o botão
-    // HTML = document (documento)
-    // Selecionar (querySelector)
-    // Quem é o Botão
-    // Apelido para o botão - classes(class) = .
-    fetch - ferramenta do JS para se comunicar com o servidor
+   
 */
 
 // Descobri que é o botao
