@@ -1,4 +1,4 @@
-/*Variável um pedaçinho da memoria que eu posso guardar que eu quiser
+/*<!--WOW-->Variável um pedaçinho da memoria que eu posso guardar que eu quiser
 
 Algoritmo - receita do bolo 'Passo a passo'
 logica de programação - Fazer o bolo 'Ja sabe como fazer'
