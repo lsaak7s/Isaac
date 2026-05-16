@@ -54,14 +54,20 @@ Depois disso de configurar a IA = role "use" pedido do usuario, contente "Da ond
     [x] Pegar a resposta da IA e colocar na tela 
     [/] Estilizar a resposta     
 
-   
+    // Ir no HTML e pegar o botão
+    // HTML = document (documento)
+    // Selecionar (querySelector)
+    // Quem é o Botão
+    // Apelido para o botão - classes(class) = .
+    fetch - ferramenta do JS para se comunicar com o servidor
 */
 
 // Descobri que é o botao
 let botao = document.querySelector(".botao-gerar")
 let endereco = "https://api.groq.com/openai/v1/chat/completions"
 
-
+// Criei a funcao que será chamada quando clicar 
+// no botao
 
 async function gerarCodigo() {
 
@@ -102,3 +108,6 @@ async function gerarCodigo() {
 botao.addEventListener("click", gerarCodigo)
 
 
+// vizinho curioso (addEventListener)
+// adicionar ouvinte de eventos
+// Evento = clique, digitei...
