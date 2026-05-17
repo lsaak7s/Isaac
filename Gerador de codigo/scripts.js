@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /*<!--WOW-->Variável um pedaçinho da memoria que eu posso guardar que eu quiser
+=======
+/*Variável um pedaçinho da memoria que eu posso guardar que eu quiser
+>>>>>>> c2f2bc9 (cle)
 
 Algoritmo - receita do bolo 'Passo a passo'
 logica de programação - Fazer o bolo 'Ja sabe como fazer'
@@ -110,4 +114,8 @@ botao.addEventListener("click", gerarCodigo)
 
 // vizinho curioso (addEventListener)
 // adicionar ouvinte de eventos
+<<<<<<< HEAD
 // Evento = clique, digitei...
+=======
+// Evento = clique, digitei...
+>>>>>>> c2f2bc9 (cle)
