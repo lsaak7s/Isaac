@@ -46,7 +46,7 @@ Sem frameworks, sem dependências pesadas. Apenas HTML, CSS e JavaScript puro.
 
 ## 🖼️ Preview
 
-![Preview do Gerador de CSS](Gerador-CSS.png)
+![Preview do Gerador de CSS](Captura_de_tela_2026-05-10_160757.png)
 
 ---
 
