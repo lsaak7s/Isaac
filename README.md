@@ -1,4 +1,4 @@
-# 🎨 Gerador d1e CSS com IA
+# 🎨 Gerador de CSS com IA
 
 > Descreva o estilo que você quer em português — e receba o CSS pronto na hora.
 
