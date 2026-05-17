@@ -47,8 +47,7 @@ Sem frameworks, sem dependências pesadas. Apenas HTML, CSS e JavaScript puro.
 ## 🖼️ Preview
 
 <!-- Adicione um screenshot do projeto aqui -->
-> _Em breve: screenshot da interface_
----
+file:///C:/Users/isaac/OneDrive/Pictures/Screenshots/Captura%20de%20tela%202026-05-10%20160757.png
 
 ## 📁 Estrutura do projeto
 
