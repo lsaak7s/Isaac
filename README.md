@@ -30,7 +30,7 @@ Sem frameworks, sem dependências pesadas. Apenas HTML, CSS e JavaScript puro.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/gerador-de-css.git
+   git clone https://github.com/Isaak7s/Gerador-CSS.git
    ```
 
 2. Abra o arquivo `index.html` no navegador — ou acesse pela GitHub Pages.
@@ -46,7 +46,7 @@ Sem frameworks, sem dependências pesadas. Apenas HTML, CSS e JavaScript puro.
 
 ## 🖼️ Preview
 
-![Preview do Gerador de CSS](Captura_de_tela_2026-05-10_160757.png)
+![Preview do Gerador de CSS](Gerador%20de%20codigo/Captura%20de%20tela%202026-05-10%20160757.png)
 
 ---
 
