@@ -66,7 +66,7 @@ Depois disso de configurar a IA = role "use" pedido do usuario, contente "Da ond
 let botao = document.querySelector(".botao-gerar")
 let endereco = "https://api.groq.com/openai/v1/chat/completions"
 
-// Criei a funcao que será chamada quando clicar 
+// 1Criei a funcao que será chamada quando clicar 
 // no botao
 
 async function gerarCodigo() {
